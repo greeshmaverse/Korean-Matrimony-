@@ -1,15 +1,15 @@
-     💖 Korean Matrimony
+ 💖 Korean Matrimony
 
 Connecting the World Through Love — With Culture, AI, and Confidence
 
 Welcome to Korean Matrimony — a modern matchmaking platform built to bridge hearts globally, with a special focus on Korean culture, Gen Z experience, and smart AI integration.
 
-       🔗 Live Demo: https://greeshmaverse.github.io/Korean-Matrimony/
+   🔗 Live Demo: https://greeshmaverse.github.io/Korean-Matrimony/
 
 
   🚀 Features at a Glance
 
-    Feature	Description
+  Feature	Description
 
 🔐 Login / Signup	Secure entry for every user
 🗺️ Global Love Map	Explore love connections across countries
@@ -22,7 +22,7 @@ Welcome to Korean Matrimony — a modern matchmaking platform built to bridge he
 🛡️ Cyber Complaint Portal	Safety-first system for fake/misleading profiles
 
 
-      🛠 Tech Stack
+ 🛠 Tech Stack
 
 Frontend: HTML, CSS, JavaScript
 
@@ -40,16 +40,14 @@ Real-time chat system
 
 Admin dashboard for moderation 
 
-       🤝 Credits
+   🤝 Credits
 
 Designed & Developed by Padamata Greeshma
-
-      📬 Contact Me
+     📬 Contact Me
 
 Have feedback, suggestions, or want to collaborate?
 📧 Email: greeshmapadamata9@gmail.com
 🔗 LinkedIn: https://www.linkedin.com/in/greeshmapadamata9?trk=contact-info 
-
-     ⭐️ Show Some Love
+⭐️ Show Some Love
 
 If you liked this project, please star the repo, share the demo, or drop a note on LinkedIn! 💌
