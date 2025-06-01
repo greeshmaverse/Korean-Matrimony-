@@ -4,7 +4,7 @@ Connecting the World Through Love — With Culture, AI, and Confidence
 
 Welcome to Korean Matrimony — a modern matchmaking platform built to bridge hearts globally, with a special focus on Korean culture, Gen Z experience, and smart AI integration.
 
-   🔗 Live Demo: https://greeshmaverse.github.io/Korean-Matrimony/
+   🔗 Live Demo: https://greeshmaverse.github.io/Korean-Matrimony-/
 
 
   🚀 Features at a Glance
